@@ -1,0 +1,24 @@
+# Sanal ortamlar
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Büyük veri dosyaları (Kaggle'dan indirilir, GitHub 100 MB sınırını aşar)
+data/creditcard.csv
+data/processed/
+data/*.db
+data/demo/
+
+# Demo (sentetik) çıktıları
+results/demo/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
