@@ -20,8 +20,8 @@ değerlendirme/görselleştirme → SQL analizi → komut satırı arayüzü.
 ## Kurulum
 
 ```bash
-git clone https://github.com/<kullanici-adi>/<repo-adi>.git
-cd <repo-adi>
+git clone https://github.com/<ulhnysf>/<anomaly-detection-financial-transactions>.git
+cd <anomaly-detection-financial-transactions>
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
